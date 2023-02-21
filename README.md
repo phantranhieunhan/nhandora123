@@ -1,21 +1,5 @@
 ![error](https://github.com/egonelbre/gophers/raw/master/.thumb/vector/superhero/gotham.png)
 ### Noras - Phan Tran Hieu Nhan I am a Backend Developer
-My knownledge:
-* Front End:
-  * HTML ![html](https://github.com/nhandora123/nhandora123/blob/master/html-5.png)
-  * CSS ![html](https://github.com/nhandora123/nhandora123/blob/master/css.png)
-  * JavaScript ![html](https://github.com/nhandora123/nhandora123/blob/master/js.png)
-    * React Native
-    * AngularJs 
-* Back End:
-  * C# 
-  * Nodejs ![nodejs](https://github.com/nhandora123/nhandora123/blob/master/nodejs.png)
-* Database
-  * Sql Server
-* Model: 
-  * MVC
-  * API restful
-
 My character:
 * Sociable 🤘
 * Friendly 😃
