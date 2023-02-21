@@ -1,5 +1,5 @@
-![error](https://github.com/nhandora123/nhandora123/blob/master/Slide7.PNG)
-### Noras - Phan Tran Hieu Nhan I am a Software Developer
+![error](https://github.com/egonelbre/gophers/raw/master/.thumb/vector/superhero/gotham.png)
+### Noras - Phan Tran Hieu Nhan I am a Backend Developer
 My knownledge:
 * Front End:
   * HTML ![html](https://github.com/nhandora123/nhandora123/blob/master/html-5.png)
@@ -9,7 +9,6 @@ My knownledge:
     * AngularJs 
 * Back End:
   * C# 
-  * PHP ![html](https://github.com/nhandora123/nhandora123/blob/master/php.png)
   * Nodejs ![nodejs](https://github.com/nhandora123/nhandora123/blob/master/nodejs.png)
 * Database
   * Sql Server
@@ -27,3 +26,4 @@ My character:
 ## Contact
  * Facebook: https://www.facebook.com/phantranhieunhan
  * Email: hieunhan2000@gmail.com
+ * LinkedIn: https://www.linkedin.com/in/phantranhieunhan
